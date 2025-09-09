@@ -45,7 +45,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
----
-
-<h3 align="center">✨ Always learning, always building. ✨</h3>
