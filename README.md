@@ -1,7 +1,7 @@
 <h1 align="center">✨ Welcome to My GitHub ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3AA6F7&width=600&lines=Hi%2C+I'm+Eduardo!;19+Years+Old+Software+Engineering+Student;Passionate+about+Game+Development+%26+3D+Modeling;Always+Learning+%26+Building+Cool+Things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3AA6F7&width=600&lines=Hi%2C+I'm+Eduardo!;I+Have+19+Years+Old;Software+Engineering+Student;Passionate+about+Game+Development+%26+3D+Modeling;Always+Learning+%26+Building+Cool+Things" alt="Typing Animation" />
 </p>
 
 ---
