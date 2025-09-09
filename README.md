@@ -12,7 +12,7 @@
 -   🎓 Atualmente estudando Engenharia De Software na Universidade Católica de Brasília - UCB.
 -   🌱 Estou focado em aprender e aprimorar minhas habilidades em desenvolvimento de jogos e tecnologias de backend.
 -   🚀 Buscando oportunidades para colaborar em projetos e ganhar experiência prática no mundo de GameDev.
--   📫 Como me contatar: **eduardo.vfponce@gmail.com** (ou o e-mail que preferir)
+-   📫 Como me contatar: **eduardo.vfponce@gmail.com**
 
 ---
 
