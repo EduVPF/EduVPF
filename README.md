@@ -1,20 +1,19 @@
-<h1 align="center">✨ Welcome to My GitHub ✨</h1>
+<h1 align="center">👋 Hi, I'm Eduardo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3AA6F7&width=600&lines=Hi%2C+I'm+Eduardo!;I+Have+19+Years+Old;Software+Engineering+Student;Passionate+about+Game+Development+%26+3D+Modeling;Always+Learning+%26+Building+Cool+Things" alt="Typing Animation" />
+  <em>19 y/o Software Engineering student passionate about Game Development, 3D Modeling, and solving problems with technology.</em>
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
 
-- 🎓 Software Engineering student at **Catholic University of Brasília (UCB)**  
-- 🎮 Passionate about **Game Development & 3D Modeling**  
-- 🤝 Strong **teamwork and collaboration skills**  
-- 💡 Creative thinker, problem solver, and fast learner  
-- 🚀 Always exploring new technologies and improving my coding skills  
-- 🌍 Interested in both **backend development** and **game engines**  
-- 📚 Currently diving deeper into **Unity, Godot, and backend technologies**  
+- 🎓 Studying **Software Engineering** at the Catholic University of Brasília (UCB)  
+- 🎮 Interested in **Game Development** and **3D Modeling**  
+- 🤝 Skilled at **teamwork and collaboration**  
+- 💡 Creative thinker with problem-solving mindset  
+- 🚀 Always learning new technologies and improving coding skills  
+- 🌍 Exploring **Unity, Godot, backend development, and databases**  
 
 ---
 
@@ -26,13 +25,13 @@
 
 ---
 
-## 🌟 My Qualities  
+## 🌟 Strengths  
 
-✔️ Passion for technology and innovation  
-✔️ Excellent communication & teamwork  
-✔️ Adaptability and continuous learning  
-✔️ Creative mindset with attention to detail  
-✔️ Strong interest in building engaging user experiences  
+- ✅ Strong communication & collaboration  
+- ✅ Adaptability & fast learning  
+- ✅ Creativity with attention to detail  
+- ✅ Passion for innovation & technology  
+- ✅ Focus on building engaging user experiences  
 
 ---
 
@@ -49,4 +48,4 @@
 
 ---
 
-<h3 align="center">🚀 "Building my future one line of code at a time." 🚀</h3>
+<h3 align="center">✨ Always learning, always building. ✨</h3>
