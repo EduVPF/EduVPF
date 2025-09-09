@@ -1,9 +1,8 @@
-## Hi there 👋
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3397F7&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Eduardo!;Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3397F7&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Eduardo!;Seja+bem-vindo(a)!" alt="Typing SVG" /></a>
 </h1>
 <p align="center">
-  <em>Um desenvolvedor em formação apaixonado por resolver problemas através da tecnologia e do código.</em>
+  <em>Um desenvolvedor em formação apaixonado por jogos e por resolver problemas através da tecnologia e do código.</em>
 </p>
 
 ---
@@ -21,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,c#,vscode,gdevelop" />
+    <img src="https://skillicons.dev/icons?i=java,c,cs,vscode,godot,mysql,unity" />
   </a>
 </p>
 
